@@ -2,6 +2,7 @@
 This repo will have documents and links to helpful resources that will help us write code and organize our code as a team.
 
 ## Subjects to cover:
+* [MarkDown](https://www.markdownguide.org/): This is what we're using to format this document.
 * [Git](https://git-scm.com/docs/gittutorial)
    * [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
    * [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US)
