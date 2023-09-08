@@ -1,5 +1,5 @@
 # Readme
-This repo will have documents and links to helpful resources that will help us write code and organize our code as a team.
+This repo will have documents and links to helpful resources that will help us write code and organize our code as a team. Have an idea of something you want to learn? Create an issue in the Github repository for this at https://github.com/FRC-1799/learning-resources/issues.
 
 ## Subjects to cover:
 * [MarkDown](https://www.markdownguide.org/): This is what we're using to format this document.
