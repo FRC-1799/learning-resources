@@ -10,4 +10,5 @@ This repo will have documents and links to helpful resources that will help us w
    * [W3Schools: Git Tutorial](https://www.w3schools.com/git/)
    * [Atlassian: Getting Git Right](https://www.atlassian.com/git)
 * [Using Github](https://docs.github.com/en/get-started/quickstart/hello-world)
-* [FRC API Documentation](https://docs.wpilib.org/en/stable/)
+* [FRC API Documentation (WPILib)](https://docs.wpilib.org/en/stable/)
+   * [Links to Useful WPILib articles](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/step-2-next-steps.html)
