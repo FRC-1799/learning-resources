@@ -12,3 +12,4 @@ This repo will have documents and links to helpful resources that will help us w
 * [Using Github](https://docs.github.com/en/get-started/quickstart/hello-world)
 * [FRC API Documentation (WPILib)](https://docs.wpilib.org/en/stable/)
    * [Links to Useful WPILib articles](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/step-2-next-steps.html)
+* [Writing Java on a school computer](java-school-computer.md)
