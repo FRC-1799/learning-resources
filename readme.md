@@ -15,4 +15,3 @@ This repo will have documents and links to helpful resources that will help us w
 * [Writing Java on a school computer](java-school-computer.md)
 * [Understanding Encoders and code](encoders.md)
 * [Understanding Gyros and code](gyros.md)
-
